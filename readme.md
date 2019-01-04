@@ -12,7 +12,7 @@ Installation Instructions : We are assuming that composer is already installed
 	
 	1) From your projects root folder in terminal run:
 	
-		git clone https://github.com/developer-dreamsoft4u/ReactJsLaravel ReactJSLaravel
+		git clone https://github.com/ds4you/ReactJSLaravel ReactJSLaravel
 
 	2) Run the following cammands:
 		
